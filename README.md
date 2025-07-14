@@ -16,3 +16,4 @@ DESCRIPTION :
 This code defines a simple Library Management RESTful API using Express.js. It allows users to manage books with basic operations like viewing all books, getting a book by its ID, adding a new book, updating an existing one, and deleting a book. The book data is stored in an in-memory array, which means it's temporary and will reset when the server restarts. Each book has an ID, title, author, and availability status. The API has routes for handling HTTP methods: GET (to fetch books), POST (to add a book), PUT (to update a book), and DELETE (to remove a book). The server runs on port 3000 and listens for requests at endpoints like /api/books and /api/books/:id. This project is suitable for learning how REST APIs work using Express.
 
 #OUTPUT
+<img width="1115" height="912" alt="image" src="https://github.com/user-attachments/assets/12e174a2-3b32-4788-878f-55cf722f1360" />
